@@ -18,7 +18,16 @@
       
 
 4. Добавить веб-сайт в Диспечере IIS, указав пути до соответствуещего проекта:
+   
+Имя: TimeSheetsAPI
+
+Порт: 5106
 
 ![image](https://github.com/mihail2771/TestTask8/assets/47285121/9fc27d1d-4853-449f-91ad-a43020e73167)
+
+Имя: TimeSheetsWeb
+
+Порт: 3001
+
 ![image](https://github.com/mihail2771/TestTask8/assets/47285121/82647d02-efaa-4b72-940c-647a9a0d3dc4)
 
