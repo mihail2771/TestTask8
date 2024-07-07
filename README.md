@@ -7,6 +7,11 @@
 
 При необходимости отредактировать строку подключения к БД  вписав свои параметры - файл appsettings.json : "Server=XADMY\\SQLEXPRESS;Database=test8;User Id=test_user;Password=Test123321;TrustServerCertificate=True;"
 
+Проверьте настройки сервера
+      1. В Object Explorer, щелкните правой кнопкой мыши на имя вашего сервера и выберите "Properties" (Свойства).
+      2. Перейдите на вкладку "Connections" (Подключения).
+      3. Убедитесь, что установлена галочка "Allow remote connections to this server" (Разрешить удаленные подключения к этому серверу).
+
 3. Добавить веб-сайт в Диспечере IIS, указав пути до соответствуещего проекта:
 
 ![image](https://github.com/mihail2771/TestTask8/assets/47285121/9fc27d1d-4853-449f-91ad-a43020e73167)
