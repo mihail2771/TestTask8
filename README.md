@@ -6,6 +6,7 @@
 - [dotnet-hosting](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) 
 - [node](https://nodejs.org/en/download/package-manager)
 
+
 1. Выполнить скрипт в БД: [SQL.sql](https://github.com/mihail2771/TestTask8/blob/main/SQL.sql) для создания БД, таблиц и тестовых данных
 
 2. Скачать билды проектов:
