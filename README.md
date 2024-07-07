@@ -5,15 +5,15 @@
    - [webapi](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmihail2771%2FTestTask8%2Ftree%2Fmain%2Fwebapi%2Fbin%2FRelease%2Fnet8.0%2Fpublish) 
    - [web-app ](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmihail2771%2FTestTask8%2Ftree%2Fmain%2Fweb-app%2Fbuild)
 
-При необходимости отредактировать строку подключения к БД  вписав свои параметры - файл appsettings.json : "Server=XADMY\\SQLEXPRESS;Database=test8;User Id=test_user;Password=Test123321;TrustServerCertificate=True;"
+   2.1 При необходимости отредактировать строку подключения к БД  вписав свои параметры - файл appsettings.json : "Server=XADMY\\SQLEXPRESS;Database=test8;User Id=test_user;Password=Test123321;TrustServerCertificate=True;"
 
-Проверьте настройки сервера:
+   2.2 Проверьте настройки сервера:
       
-   1. В Object Explorer, щелкните правой кнопкой мыши на имя вашего сервера и выберите "Properties" (Свойства).
+      2.2.1 В Object Explorer, щелкните правой кнопкой мыши на имя вашего сервера и выберите "Properties" (Свойства).
       
-   2. Перейдите на вкладку "Connections" (Подключения).
+      2.2.2 Перейдите на вкладку "Connections" (Подключения).
       
-   3. Убедитесь, что установлена галочка "Allow remote connections to this server" (Разрешить удаленные подключения к этому серверу).
+      2.2.3 Убедитесь, что установлена галочка "Allow remote connections to this server" (Разрешить удаленные подключения к этому серверу).
       
 
 3. Добавить веб-сайт в Диспечере IIS, указав пути до соответствуещего проекта:
