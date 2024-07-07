@@ -1,0 +1,160 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+
+.App {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #6699CC;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+form > div {
+  margin-bottom: 15px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  color: #6699CC;
+}
+
+form input,
+form select,
+form textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form input[type="checkbox"] {
+  width: auto;
+}
+
+form button {
+  background-color: #6699CC;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 150px;
+}
+
+form button:hover {
+  background-color: #4682b4;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #6699CC;
+  color: white;
+}
+
+.actions button {
+  background-color: #6699CC;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 5px;
+  width: 100%;
+}
+
+.actions button:hover {
+  background-color: #6699CC;
+}
+
+.actions button.edit {
+  background-color: #6699CC;
+}
+
+.actions button.edit:hover {
+  background-color: #4682b4;
+}
+
+.actions button.save {
+  background-color: #6699CC
+}
+
+.actions button.save:hover {
+  background-color: #4682b4;
+}
+
+.actions button.cancel {
+  background-color: #FF9933;
+}
+
+.actions button.cancel:hover {
+  background-color: #CC6600;
+}
+
+.actions button.delete {
+  background-color: #FF6666;
+}
+
+.actions button.delete:hover {
+  background-color: #FF3333;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination button { 
+  background-color: #336699;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 5px;
+}
+
+.pagination button:hover {
+  background-color: #6699CC;
+}
+
+.pagination span {
+  align-self: center;
+  margin: 0 10px;
+}
