@@ -1,4 +1,11 @@
 # TestTask8
+
+Для работаспособности приложений понадобится предустановленные:
+- [Microsoft SQL Server 2019](https://www.microsoft.com/ru-ru/download/details.aspx?id=101064)
+- [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup)
+- [dotnet-hosting](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) 
+- [node](https://nodejs.org/en/download/package-manager)
+
 1. Выполнить скрипт в БД: [SQL.sql](https://github.com/mihail2771/TestTask8/blob/main/SQL.sql) для создания БД, таблиц и тестовых данных
 
 2. Скачать билды проектов:
