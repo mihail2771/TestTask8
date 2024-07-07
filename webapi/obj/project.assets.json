@@ -2150,11 +2150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\misha\\Desktop\\Тестовое задание 8\\webapi\\webapi.csproj",
+      "projectUniqueName": "C:\\Users\\misha\\Desktop\\TEST\\webapi\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "C:\\Users\\misha\\Desktop\\Тестовое задание 8\\webapi\\webapi.csproj",
+      "projectPath": "C:\\Users\\misha\\Desktop\\TEST\\webapi\\webapi.csproj",
       "packagesPath": "C:\\Users\\misha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\misha\\Desktop\\Тестовое задание 8\\webapi\\obj\\",
+      "outputPath": "C:\\Users\\misha\\Desktop\\TEST\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\misha\\AppData\\Roaming\\NuGet\\NuGet.Config"

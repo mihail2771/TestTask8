@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CRFWiZSoxxna8OuPpQn6s6RBzFnU4AF2R6Jioiibvp2OtYEtIb8syD6yO1KVTCrxlaOOHEP9u1FXdss954Uh7A==",
+  "dgSpecHash": "Pi+A0+x91d9cjg1PfBqRPjop4c3s4WBfuShxcLHWy8AuV812yCG3PmYnsTmuSG2w0vHnzVnICy+ODs734hPlkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\misha\\Desktop\\Тестовое задание 8\\webapi\\webapi.csproj",
+  "projectFilePath": "C:\\Users\\misha\\Desktop\\TEST\\webapi\\webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\misha\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

@@ -145,7 +145,6 @@ function App() {
               required
             >
               <option value="">Выбор причины</option>
-              <option value="">Выбор причины</option>
               <option value={1}>Отпуск</option>
               <option value={2}>Больничный</option>
               <option value={3}>Прогул</option>
